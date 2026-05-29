@@ -34,7 +34,7 @@ XceptionNet-based deepfake detector trained on FaceForensics++ with compression-
 ## Model Weights
 
 Too large for GitHub — download from Google Drive:  
-`https://drive.google.com/drive/folders/1QCDtyWBZBiUCNe-iVCX3-R2zgTGwFrw0?usp=sharing`
+https://drive.google.com/drive/folders/1QCDtyWBZBiUCNe-iVCX3-R2zgTGwFrw0?usp=sharing
 
 ## Next Steps
 
